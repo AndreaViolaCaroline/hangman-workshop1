@@ -1,1 +1,1 @@
-# hangman-workshop1
+# A hang man project
