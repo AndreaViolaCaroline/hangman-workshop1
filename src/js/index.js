@@ -1,6 +1,7 @@
-import './components/keyboard/'
+import './components/hangman-game'
 
 const container = document.querySelector('#container')
-const keyBoard = document.createElement('key-board')
 
-container.appendChild(keyBoard)
+const hangmanGame = document.createElement('hangman-game')
+
+container.appendChild(hangmanGame)
